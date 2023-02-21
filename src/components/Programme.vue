@@ -7,53 +7,53 @@
           <div class="star">
             <img src="../assets/img/programme/Star.png" alt="star" />
             <p>
-              Inscription à la compétition le 20 février 2023
+              Inscription De lundi 20 février 2023 à lundi 20 mars 2023            
             </p>
           </div>
           <div class="star">
             <img src="../assets/img/programme/Star.png" alt="star" />
             <p>
-              Affichage de la liste finale des participants 27 mars 2023
+              Liste des participants sélectionnés Lundi 27 mars 2023 
             </p>
           </div>
           <div class="star">
             <img src="../assets/img/programme/Star.png" alt="star" />
             <p>
-              La formation sur marketplace STOREINO :
+              Formation Marketplace :
             </p>
           </div>
           <div class="star-pa">  
             <p>
-            La première session de la formation le 01 avril 2023
+              1ère session : Samedi 01avril 2023
             </p>
           </div>
           <div class="star-pa">  
             <p>
-              La deuxième session de la formation le 08 avril 2023
+              2ème session : Samedi 08 avril 2023
             </p>
           </div>
           <div class="star">
             <img src="../assets/img/programme/Star.png" alt="star" />
             <p>
-              Choix du thématique pour chaque participant 15 avril 2023
+              Soumisson des choix du thématique Du samedi 08 avril 2023 à Samedi 15 avril 2023
             </p>
           </div>
           <div class="star">
             <img src="../assets/img/programme/Star.png" alt="star" />
             <p>
-              Lancement de la compétition 17 avril 2023
+              Lancement de la compétition Lundi 17 avril 2023
             </p>
           </div>
           <div class="star">
             <img src="../assets/img/programme/Star.png" alt="star" />
             <p>
-              Livraison du projet 15 juillet 2023
+              Soumission des projets Samedi 15 juillet 2023
             </p>
           </div>
           <div class="star">
             <img src="../assets/img/programme/Star.png" alt="star" />
             <p>
-              Cérémonie d'annonce des résultats en octobre.
+              Cérémonie et remise des prix Octobre 2023
             </p>
           </div>
         </div>
@@ -93,6 +93,7 @@
   font-size: 16px;
   font-weight: 400;
   line-height: 30px;
+  text-align:left;  
 }
 .star-pa{
     margin-left:10px ;
