@@ -236,6 +236,7 @@ function sendEmail() {
                 <option value="FLSHM">FLSHM</option>
                 <option value="FSTG">FSTG</option>
                 <option value="ESTK">ESTK</option>
+                <option value="UMP">UM</option>
                 <option value="Autres">Autres</option>
               </select>
             </div>
